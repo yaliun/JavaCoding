@@ -19,8 +19,7 @@ public class GetMinMaxString {
         int min = nums[0];
         int max = nums[nums.length -1];
        
-        return min + " " + max;
-  
+        return min + " " + max;  
     }
 
     public static void main(String[] args) {
