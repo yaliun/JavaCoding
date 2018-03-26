@@ -6,7 +6,7 @@ public class GetMinMaxString {
 	
     public String getMinMaxString(String str) {
     	  
-        String[] array = str.split(" "); 
+        String[] array = str.split(" ");
         
         int[] nums = new int[array.length];
         
